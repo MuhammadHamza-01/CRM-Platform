@@ -2,7 +2,7 @@
 @section('title', 'Dashboard')
 @section('header', 'Dashboard')
 
-@section('content')
+@section('content') 
 <div class="max-w-5xl mx-auto space-y-6">
 
     <!-- Welcome + stats -->
